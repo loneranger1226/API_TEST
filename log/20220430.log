@@ -1,0 +1,1198 @@
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"934b891b-3b4a-480f-a8bb-32c858663c82"}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> {
+    "mobile": "138000000021",
+    "password": "123456"
+}
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":false,"code":20001,"message":"用户名或密码错误","data":null}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> {
+    "mobile": "138000000021",
+    "password": "123456"
+}
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":false,"code":20001,"message":"用户名或密码错误","data":null}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> {
+    "mobile": "138000000021",
+    "password": "123456"
+}
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":false,"code":20001,"message":"用户名或密码错误","data":null}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"bf754c22-b314-43e9-bd19-ea1cc0e0efee"}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"86527a7f-bcc8-4fb7-a37d-805bde010232"}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"dc1d3b51-2fb3-4c0b-a263-8d19d7ef301f"}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"c7c4d894-69f3-4444-a2e8-62cc07c0f349"}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"84b4881d-9b92-49a5-814f-f825957c4fc4"}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"7cb99d8f-dfe4-4ae9-8ec3-a1c4b16f0c31"}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"5b5d3010-fbf2-4886-a265-4529f9a1d201"}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"0884a988-a9b3-46c8-be5c-20a2a8a94156"}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"075a4ef5-6a92-4191-aa44-8ad755cae436"}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"4b425408-9573-43bd-a005-1a2ca6ebc8ca"}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user?
+接口请求方式 ==>> GET
+接口请求头 ==>> {
+    "Content-Type": "application/json ",
+    "Authorization": null
+}
+接口请求 params参数 ==>> {
+    "page": 1,
+    "size": 10
+}
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> {'page': 1, 'size': 10}
+接口 cookies参数 ==>> {
+    "page": 1,
+    "size": 10
+}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"9f03b8fe-d1cd-4c37-b559-f4438c82483a"}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user?
+接口请求方式 ==>> GET
+接口请求头 ==>> {
+    "Content-Type": "application/json ",
+    "Authorization": null
+}
+接口请求 params参数 ==>> {
+    "page": 1,
+    "size": 10
+}
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> {'page': 1, 'size': 10}
+接口 cookies参数 ==>> {
+    "page": 1,
+    "size": 10
+}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"77035db6-731b-4508-a783-a61085f8ce28"}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user?
+接口请求方式 ==>> GET
+接口请求头 ==>> {
+    "Content-Type": "application/json ",
+    "Authorization": "Bearer 77035db6-731b-4508-a783-a61085f8ce28"
+}
+接口请求 params参数 ==>> {
+    "page": 1,
+    "size": 10
+}
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> {'page': 1, 'size': 10}
+接口 cookies参数 ==>> {
+    "page": 1,
+    "size": 10
+}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "138000000021",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":false,"code":20001,"message":"用户名或密码错误","data":null}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "138000000021",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":false,"code":20001,"message":"用户名或密码错误","data":null}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "138000000021",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":false,"code":20001,"message":"用户名或密码错误","data":null}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "138000000021",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":false,"code":20001,"message":"用户名或密码错误","data":null}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user?
+接口请求方式 ==>> GET
+接口请求头 ==>> {
+    "Content-Type": "application/json ",
+    "Authorization": null
+}
+接口请求 params参数 ==>> {
+    "page": 1,
+    "size": 10
+}
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> {'page': 1, 'size': 10}
+接口 cookies参数 ==>> {
+    "page": 1,
+    "size": 10
+}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"9f2cacb0-8272-4892-8bb5-d409d43bf902"}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user?
+接口请求方式 ==>> GET
+接口请求头 ==>> {
+    "Content-Type": "application/json ",
+    "Authorization": "Bearer 9f2cacb0-8272-4892-8bb5-d409d43bf902"
+}
+接口请求 params参数 ==>> {
+    "page": 1,
+    "size": 10
+}
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> {'page': 1, 'size': 10}
+接口 cookies参数 ==>> {
+    "page": 1,
+    "size": 10
+}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"273f155d-9695-4cb2-9286-c6af109a8394"}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user?
+接口请求方式 ==>> GET
+接口请求头 ==>> {
+    "Content-Type": "application/json ",
+    "Authorization": "Bearer 273f155d-9695-4cb2-9286-c6af109a8394"
+}
+接口请求 params参数 ==>> {
+    "page": 1,
+    "size": 10
+}
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+查询员工列表 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":{"total":294,"rows":[{"id":"1063705989926227968","mobile":"13800000002","username":"aj123","password":"c8b7722b1139bb9b346409e503302e82","enableState":1,"createTime":"2018-11-17T08:10:45.000+0000","companyId":"1","companyName":"传智播客","departmentId":"1066241293639880704","timeOfEntry":"2018-11-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"9002","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-29T16:00:00.000+0000","inServiceStatus":null,"departmentName":"test1","level":"coAdmin","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1063705989926227968?t=1545788007343","isDelete":0},{"id":"1066370498633486336","mobile":"13800000003","username":"zbz","password":"14af10ffa3798486632a79cbbf469376","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-11-04T00:00:00.000+0000","formOfEmployment":1,"workNumber":"111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-19T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1066370498633486336?t=1545812322518","isDelete":0},{"id":"1071632760222810112","mobile":"13800000004","username":"ll","password":"456134d471010ecba14c6f89cac349ff","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-12-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"1111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-12-30T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1520234835111690240","mobile":"13901187643","username":"小猪佩奇","password":"3d11d24d83d20fadc5e6d614e4263739","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1520235540941750272","mobile":"18220222002","username":"YG002","password":"d2397c243937a72fde2b6cb0ba701f50","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"123","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1520239053109313536","mobile":"13899078431","username":"大猪乔治","password":"3504469edf191fd6f674cdb9725562c4","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1452603344685203456","timeOfEntry":"2021-12-01T00:00:00.000+0000","formOfEmployment":1,"workNumber":"777888","formOfManagement":null,"workingCity":null,"correctionTime":"2021-12-30T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试","level":"user","staffPhoto":null,"isDelete":0},{"id":"1520239207333871616","mobile":"18210222002","username":"YG","password":"857b9915457f2365cb348d4e65d480c6","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"123","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1520241138987024384","mobile":"13935187643","username":"小猪佩奇","password":"51636db77460107c15630514ae6d2ff4","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1520244217128009728","mobile":"13945851558","username":"石磊","password":"73f91fa309a26668768c3babad6d8247","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"1691","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1520247109184503808","mobile":"13145084985","username":"呵呵呵888","password":"1e0b2df70d9b399cd917d19195ecb9e1","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0}]}}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json "
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"9a7b4fe6-8a74-45bc-a5e1-e22bc44e847b"}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user?
+接口请求方式 ==>> GET
+接口请求头 ==>> {
+    "Authorization": "Bearer 9a7b4fe6-8a74-45bc-a5e1-e22bc44e847b"
+}
+接口请求 params参数 ==>> {
+    "page": 1,
+    "size": 10
+}
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+查询员工列表 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":{"total":296,"rows":[{"id":"1063705989926227968","mobile":"13800000002","username":"aj123","password":"c8b7722b1139bb9b346409e503302e82","enableState":1,"createTime":"2018-11-17T08:10:45.000+0000","companyId":"1","companyName":"传智播客","departmentId":"1066241293639880704","timeOfEntry":"2018-11-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"9002","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-29T16:00:00.000+0000","inServiceStatus":null,"departmentName":"test1","level":"coAdmin","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1063705989926227968?t=1545788007343","isDelete":0},{"id":"1066370498633486336","mobile":"13800000003","username":"zbz","password":"14af10ffa3798486632a79cbbf469376","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-11-04T00:00:00.000+0000","formOfEmployment":1,"workNumber":"111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-11-19T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":"http://pkbivgfrm.bkt.clouddn.com/1066370498633486336?t=1545812322518","isDelete":0},{"id":"1071632760222810112","mobile":"13800000004","username":"ll","password":"456134d471010ecba14c6f89cac349ff","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1063678149528784896","timeOfEntry":"2018-12-02T00:00:00.000+0000","formOfEmployment":1,"workNumber":"1111","formOfManagement":null,"workingCity":null,"correctionTime":"2018-12-30T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1520234835111690240","mobile":"13901187643","username":"小猪佩奇","password":"3d11d24d83d20fadc5e6d614e4263739","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1520235540941750272","mobile":"18220222002","username":"YG002","password":"d2397c243937a72fde2b6cb0ba701f50","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"123","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1520239053109313536","mobile":"13899078431","username":"大猪乔治","password":"3504469edf191fd6f674cdb9725562c4","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1452603344685203456","timeOfEntry":"2021-12-01T00:00:00.000+0000","formOfEmployment":1,"workNumber":"777888","formOfManagement":null,"workingCity":null,"correctionTime":"2021-12-30T16:00:00.000+0000","inServiceStatus":null,"departmentName":"测试","level":"user","staffPhoto":null,"isDelete":0},{"id":"1520239207333871616","mobile":"18210222002","username":"YG","password":"857b9915457f2365cb348d4e65d480c6","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"123","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1520241138987024384","mobile":"13935187643","username":"小猪佩奇","password":"51636db77460107c15630514ae6d2ff4","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1520244217128009728","mobile":"13945851558","username":"石磊","password":"73f91fa309a26668768c3babad6d8247","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"1691","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0},{"id":"1520247109184503808","mobile":"13145084985","username":"呵呵呵888","password":"1e0b2df70d9b399cd917d19195ecb9e1","enableState":1,"createTime":null,"companyId":"1","companyName":"传智播客","departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"9527","formOfManagement":null,"workingCity":null,"correctionTime":null,"inServiceStatus":null,"departmentName":"人力资源部","level":"user","staffPhoto":null,"isDelete":0}]}}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"cc0d23a4-82ef-4092-8749-ab2884c59ba0"}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer cc0d23a4-82ef-4092-8749-ab2884c59ba0"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "username": "武xx琦",
+    "mobile": "13700880001",
+    "workNumber": "123",
+    "timeOfEntry": null,
+    "formOfEmployment": null,
+    "departmentId": null,
+    "departmentName": null,
+    "correctionTime": null
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+添加员工 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":{"departmentId":"1066239913642561536","id":"1520400276513734656"}}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"ee873347-3755-42ae-87d4-358c7de8b9ca"}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ee873347-3755-42ae-87d4-358c7de8b9ca"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "username": "武xx琦",
+    "mobile": "13700880001",
+    "workNumber": "123",
+    "timeOfEntry": null,
+    "formOfEmployment": null,
+    "departmentId": null,
+    "departmentName": null,
+    "correctionTime": null
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"08a46969-0e77-444d-98a9-b2ab35e6820e"}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer 08a46969-0e77-444d-98a9-b2ab35e6820e"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "username": "武xx琦",
+    "mobile": "13700880001",
+    "workNumber": "123",
+    "timeOfEntry": null,
+    "formOfEmployment": null,
+    "departmentId": null,
+    "departmentName": null,
+    "correctionTime": null
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+添加员工 ==>> 返回结果 ==>> {"success":false,"code":20002,"message":"新增员工失败","data":null}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"f3428781-4b9d-4616-a153-61b062174fde"}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer f3428781-4b9d-4616-a153-61b062174fde"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "username": "武oo琦",
+    "mobile": "13711880001",
+    "workNumber": "123",
+    "timeOfEntry": null,
+    "formOfEmployment": null,
+    "departmentId": null,
+    "departmentName": null,
+    "correctionTime": null
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+添加员工 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":{"departmentId":"1066239913642561536","id":"1520402739107053568"}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user/[None]
+接口请求方式 ==>> PUT
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer f3428781-4b9d-4616-a153-61b062174fde"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> {
+    "username": "小猪佩奇xxoo",
+    "password": null,
+    "department_id": null,
+    "department_name": null
+}
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"b411a2ff-e555-4284-a4ac-172b1a03720f"}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer b411a2ff-e555-4284-a4ac-172b1a03720f"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "username": "武oo琦",
+    "mobile": "13711880001",
+    "workNumber": "123",
+    "timeOfEntry": null,
+    "formOfEmployment": null,
+    "departmentId": null,
+    "departmentName": null,
+    "correctionTime": null
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+添加员工 ==>> 返回结果 ==>> {"success":false,"code":20002,"message":"新增员工失败","data":null}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user/[]
+接口请求方式 ==>> PUT
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer b411a2ff-e555-4284-a4ac-172b1a03720f"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> {
+    "username": "小猪佩奇xxoo",
+    "password": null,
+    "department_id": null,
+    "department_name": null
+}
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"8d79d8c7-fd9d-47f5-af4f-25d8e11d4666"}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer 8d79d8c7-fd9d-47f5-af4f-25d8e11d4666"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "username": "武oo琦",
+    "mobile": "13722880001",
+    "workNumber": "123",
+    "timeOfEntry": null,
+    "formOfEmployment": null,
+    "departmentId": null,
+    "departmentName": null,
+    "correctionTime": null
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+添加员工 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":{"departmentId":"1066239913642561536","id":"1520403116586024960"}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user/[None]
+接口请求方式 ==>> PUT
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer 8d79d8c7-fd9d-47f5-af4f-25d8e11d4666"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> {
+    "username": "小猪佩奇xxoo",
+    "password": null,
+    "department_id": null,
+    "department_name": null
+}
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"e65bd0e7-3558-4ddd-bbac-4756c5d11e59"}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer e65bd0e7-3558-4ddd-bbac-4756c5d11e59"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "username": "武oo琦",
+    "mobile": "13733880001",
+    "workNumber": "123",
+    "timeOfEntry": null,
+    "formOfEmployment": null,
+    "departmentId": null,
+    "departmentName": null,
+    "correctionTime": null
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+添加员工 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":{"departmentId":"1066239913642561536","id":"1520403437769048064"}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user/[None]
+接口请求方式 ==>> PUT
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer e65bd0e7-3558-4ddd-bbac-4756c5d11e59"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> {
+    "username": "小猪佩奇xxoo",
+    "password": null,
+    "department_id": null,
+    "department_name": null
+}
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"e400c8dd-9ed8-4e4f-8b12-26f11a6d3e9f"}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer e400c8dd-9ed8-4e4f-8b12-26f11a6d3e9f"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "username": "武oo琦",
+    "mobile": "13734880001",
+    "workNumber": "123",
+    "timeOfEntry": null,
+    "formOfEmployment": null,
+    "departmentId": null,
+    "departmentName": null,
+    "correctionTime": null
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+添加员工 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":{"departmentId":"1066239913642561536","id":"1520403999474434048"}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user/1520403999474434048
+接口请求方式 ==>> PUT
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer e400c8dd-9ed8-4e4f-8b12-26f11a6d3e9f"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> {
+    "username": [
+        "1520403999474434048"
+    ],
+    "password": "小猪佩奇xxoo",
+    "department_id": null,
+    "department_name": null
+}
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"d18c0d6d-c8cc-4f63-b8ec-064a2e62986e"}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer d18c0d6d-c8cc-4f63-b8ec-064a2e62986e"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "username": "武oo琦",
+    "mobile": "13735880001",
+    "workNumber": "123",
+    "timeOfEntry": null,
+    "formOfEmployment": null,
+    "departmentId": null,
+    "departmentName": null,
+    "correctionTime": null
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+添加员工 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":{"departmentId":"1066239913642561536","id":"1520404109683965952"}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user/1520404109683965952
+接口请求方式 ==>> PUT
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer d18c0d6d-c8cc-4f63-b8ec-064a2e62986e"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> {
+    "username": "小猪佩奇xxoo",
+    "password": null,
+    "department_id": null,
+    "department_name": null
+}
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"0a162cd2-752f-44df-bfa8-4416b61ef63d"}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer 0a162cd2-752f-44df-bfa8-4416b61ef63d"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "username": "武oo琦",
+    "mobile": "13736880001",
+    "workNumber": "123",
+    "timeOfEntry": null,
+    "formOfEmployment": null,
+    "departmentId": null,
+    "departmentName": null,
+    "correctionTime": null
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+添加员工 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":{"departmentId":"1066239913642561536","id":"1520405220130144256"}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user/1520405220130144256
+接口请求方式 ==>> PUT
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer 0a162cd2-752f-44df-bfa8-4416b61ef63d"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "username": "小猪佩奇xxoo",
+    "password": null,
+    "department_id": null,
+    "department_name": null
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"be012563-ba46-419b-ae6f-f751386a3c28"}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer be012563-ba46-419b-ae6f-f751386a3c28"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "username": "武oo琦",
+    "mobile": "13737880001",
+    "workNumber": "123",
+    "timeOfEntry": null,
+    "formOfEmployment": null,
+    "departmentId": null,
+    "departmentName": null,
+    "correctionTime": null
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+添加员工 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":{"departmentId":"1066239913642561536","id":"1520405415001702400"}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user/1520405415001702400
+接口请求方式 ==>> PUT
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer be012563-ba46-419b-ae6f-f751386a3c28"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "username": "小猪佩奇xx00",
+    "password": null,
+    "department_id": null,
+    "department_name": null
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+修改员工 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":{"departmentName":"人力资源部","workNumber":"123","departmentId":"1066239913642561536","mobile":"13737880001","id":"1520405415001702400","username":"小猪佩奇xx00"}}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"6b481d0d-b251-43cc-a915-b0201292f63e"}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user/None
+接口请求方式 ==>> PUT
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer 6b481d0d-b251-43cc-a915-b0201292f63e"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+查询员工 ==>> 返回结果 ==>> {"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"a348d322-34c7-460d-9672-67f9ab94b86a"}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer a348d322-34c7-460d-9672-67f9ab94b86a"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "username": "武xxff琦",
+    "mobile": "13738880001",
+    "workNumber": "123",
+    "timeOfEntry": null,
+    "formOfEmployment": null,
+    "departmentId": null,
+    "departmentName": null,
+    "correctionTime": null
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+添加员工 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":{"departmentId":"1066239913642561536","id":"1520406106072006656"}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user/1520406106072006656
+接口请求方式 ==>> PUT
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer a348d322-34c7-460d-9672-67f9ab94b86a"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "username": "小猪xx00",
+    "password": null,
+    "department_id": null,
+    "department_name": null
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+修改员工 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":{"departmentName":"人力资源部","workNumber":"123","departmentId":"1066239913642561536","mobile":"13738880001","id":"1520406106072006656","username":"小猪xx00"}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user/1520406106072006656
+接口请求方式 ==>> PUT
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer a348d322-34c7-460d-9672-67f9ab94b86a"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+查询员工 ==>> 返回结果 ==>> {"success":false,"code":99999,"message":"抱歉，系统繁忙，请稍后重试！","data":null}
+加载D:\API_Test\config\settings.ini文件......
+读取数据 ==>> {'host': {'api_url': 'http://ihrm-test.itheima.net'}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/login
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "mobile": "13800000002",
+    "password": "123456"
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+登录用户 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":"9eb376d1-eae0-49b6-9b4c-44528ec80bfd"}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user
+接口请求方式 ==>> POST
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer 9eb376d1-eae0-49b6-9b4c-44528ec80bfd"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "username": "武xxaa琦",
+    "mobile": "13739880001",
+    "workNumber": "123",
+    "timeOfEntry": null,
+    "formOfEmployment": null,
+    "departmentId": null,
+    "departmentName": null,
+    "correctionTime": null
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+添加员工 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":{"departmentId":"1066239913642561536","id":"1520406278311100416"}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user/1520406278311100416
+接口请求方式 ==>> PUT
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer 9eb376d1-eae0-49b6-9b4c-44528ec80bfd"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> {
+    "username": "小猪xx01",
+    "password": null,
+    "department_id": null,
+    "department_name": null
+}
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+修改员工 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":{"departmentName":"人力资源部","workNumber":"123","departmentId":"1066239913642561536","mobile":"13739880001","id":"1520406278311100416","username":"小猪xx01"}}
+接口请求地址 ==>> http://ihrm-test.itheima.net/api/sys/user/1520406278311100416
+接口请求方式 ==>> GET
+接口请求头 ==>> {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer 9eb376d1-eae0-49b6-9b4c-44528ec80bfd"
+}
+接口请求 params参数 ==>> null
+接口请求体 data参数 ==>> null
+接口请求体 json参数 ==>> null
+接口上传附件 files参数 ==>> None
+接口 cookies参数 ==>> null
+查询员工 ==>> 返回结果 ==>> {"success":true,"code":10000,"message":"操作成功！","data":{"id":"1520406278311100416","mobile":"13739880001","username":"小猪xx01","enableState":1,"departmentId":"1066239913642561536","timeOfEntry":null,"formOfEmployment":null,"workNumber":"123","departmentName":"人力资源部","roleIds":[],"staffPhoto":null}}
