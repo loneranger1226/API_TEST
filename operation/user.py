@@ -1,17 +1,17 @@
 from Request.request_result import RequestResult
-from API.users import user
+from API.user import user
 from common.logger import logger
 
 
-def login(mobile, password):
+def login(mobile, password, header):
     result = RequestResult()
     json_data = {
         "mobile": mobile,
         "password": password
     }
-    header = {
-        "Content-Type": "application/json"
-    }
+    # header = {
+    #     "Content-Type": "application/json"
+    # }
     res = user.login(json=json_data, headers=header)
     res_json = res.json()
     result.msg = res_json.get("message")

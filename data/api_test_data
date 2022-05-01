@@ -1,0 +1,17 @@
+test_login_user:
+  -
+    headers: &headers
+      Content-Type: "application/json"
+    data: ["13800000002", "123456", true, 10000, "操作成功！"]
+  -
+    headers:
+      <<: *headers
+    data: ["13800000002", "1234567", false, 20001, "用户名或密码错误"]
+  -
+    headers:
+      <<: *headers
+    data: ["138000000021", "123456", false, 20001, "用户名或密码错误"]
+  -
+    headers:
+      <<: *headers
+    data: ["13800000002", "", false, 20001, "用户名或密码错误"]
